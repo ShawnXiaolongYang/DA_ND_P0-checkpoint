@@ -1,2 +1,2 @@
 # DA_ND_P0-checkpoint
-The work fot the data analyst nanadegree work
+The work for the data analyst nanadegree work
